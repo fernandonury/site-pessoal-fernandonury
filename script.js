@@ -6,12 +6,12 @@ function quadrado() {
 
 function triangulo() {
 
-    window.scrollTo({top: 895, behavior: 'smooth'})
+    window.scrollTo({top: 1310, behavior: 'smooth'})
 
 }
 
 function circulo() {
 
-    window.scrollTo({top: 2000, behavior: 'smooth'})
+    window.scrollTo({top: 2750, behavior: 'smooth'})
 
 }
