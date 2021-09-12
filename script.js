@@ -18,18 +18,13 @@ if (window.matchMedia("(max-width: 320px)").matches) {
 
 if (window.matchMedia("(min-width: 360px)").matches) {
 
-    document.getElementById('tit00').style.marginTop = '15px'
-    document.getElementById('txt00').style.marginTop = '15px'
-
-    document.getElementById('cupido').style.display = 'none'
-
     document.getElementById('fernandonury01').style.top = '900px'
 
     document.getElementById('txt01').style.top = '1130px'
     
-    document.getElementById('tit01').style.top = '1675px'
+    document.getElementById('tit01').style.top = '1680px'
 
-    document.getElementById('logo-jocum').style.top = '1693px'
+    document.getElementById('logo-jocum').style.top = '1698px'
     document.getElementById('logo-jocum').style.marginLeft = '61%'
 
 }
