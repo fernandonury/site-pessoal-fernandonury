@@ -3,6 +3,8 @@ if (window.matchMedia("(max-width: 320px)").matches) {
     document.getElementById('tit00').style.marginTop = '15px'
     document.getElementById('txt00').style.marginTop = '15px'
 
+    document.getElementById('cupido').style.display = 'none'
+
     document.getElementById('fernandonury01').style.top = '960px'
 
     document.getElementById('txt01').style.top = '1160px'
