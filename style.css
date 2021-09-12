@@ -131,3 +131,19 @@ html {
     top: 1667.5px;
 
 }
+
+#txt02 {
+
+    font-family: 'Truculenta', sans-serif;
+
+    text-align: justify;
+
+    max-width: 90%;
+
+    margin-left: 12%;
+    margin-right: 5%;
+
+    position: absolute;
+    top: 1720px;
+
+}
