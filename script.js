@@ -33,7 +33,7 @@ if (window.matchMedia("(min-width: 375px)").matches) {
 
     document.getElementById('fernandonury01').style.top = '890px'
 
-    document.getElementById('txt01').style.top = '1120px'
+    document.getElementById('txt01').style.top = '1100px'
     
     document.getElementById('tit01').style.top = '1662px'
 
