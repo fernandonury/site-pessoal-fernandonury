@@ -68,7 +68,7 @@ html {
 
 }
 
-@media screen and (min-width: 360px) {
+@media screen and (max-width: 360px) {
 
     .fernandonury01 {
 
@@ -107,7 +107,7 @@ html {
 
     .txt01 {
 
-        top: 1200px;
+        top: 1195px;
     
     }
 
@@ -117,13 +117,13 @@ html {
 
     .fernandonury01 {
 
-        top: 790px;
+        top: 870px;
     
     }
 
     .txt01 {
 
-        top: 1035px;
+        top: 1115px;
     
     }
 
@@ -139,7 +139,7 @@ html {
 
     .txt01 {
 
-        top: 1080px;
+        top: 1090px;
     
     }
 
