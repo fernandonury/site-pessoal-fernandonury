@@ -147,3 +147,52 @@ html {
     top: 1740px;
 
 }
+
+#img00 {
+
+    width: 250px;
+
+    margin-left: 12%;
+
+    position: absolute;
+    top: 2185px;
+
+}
+
+#img01 {
+
+    width: 250px;
+
+    margin-left: 23%;
+
+    position: absolute;
+    top: 2390px;
+
+}
+
+#img02 {
+
+    width: 250px;
+
+    margin-left: 12%;
+
+    position: absolute;
+    top: 2595px;
+
+}
+
+#txt03 {
+
+    font-family: 'Truculenta', sans-serif;
+
+    text-align: justify;
+
+    max-width: 90%;
+
+    margin-left: 12%;
+    margin-right: 5%;
+
+    position: absolute;
+    top: 2790px;
+
+}
