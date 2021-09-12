@@ -1,10 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo00,700|Oswald:700');
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:wght@100;300;400&display=swap');
+
 html {
 
-    font-family: Arial, Helvetica, sans-serif;
+    height: 2500px;
 
 }
 
-.fernandonury00 {
+#fernandonury00 {
 
     width: 250px;
 
@@ -13,7 +16,18 @@ html {
 
 }
 
-.linha {
+#cupido {
+
+    width: 50px;
+
+    margin-left: 80%;
+    margin-top: -320px;
+
+    display: block;
+
+}
+
+#linha {
 
     background-color: black;
 
@@ -23,26 +37,30 @@ html {
     margin-left: 4.2%;
 
     position: absolute;
-    top: 300px;
+    top: 320px;
 
 }
 
-.tit00 {
+#tit00 {
 
-    font: 13pt Yu Gothic;
+    color: black;
 
-    text-align: justify;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15pt;
+
+    text-transform: uppercase; 
 
     max-width: 90%;
 
     margin-left: 12%;
     margin-right: 5%; 
+    margin-top: -45px;
 
 }
 
-.txt00 {
+#txt00 {
 
-    font: 10pt Yu Gothic;
+    font-family: 'Truculenta', sans-serif;
 
     text-align: justify;
 
@@ -53,7 +71,7 @@ html {
 
 }
 
-.fernandonury01 {
+#fernandonury01 {
 
     width: 250px;
 
@@ -61,28 +79,16 @@ html {
 
     max-width: 400px;
 
-    margin-left: 11%;
+    margin-left: 11.5%;
 
     position: absolute;
     top: 760px;
 
 }
 
-@media screen and (max-width: 360px) {
+#txt01 {
 
-    .fernandonury01 {
-
-        top: 913px;
-    
-    }
-
-}
-
-.txt01 {
-
-    font: 10pt Yu Gothic;
-
-    font-size: 10pt;
+    font-family: 'Truculenta', sans-serif;
 
     text-align: justify;
 
@@ -96,51 +102,32 @@ html {
 
 }
 
+#tit01 {
 
-@media screen and (max-width: 320px) {
+    color: black;
 
-    .fernandonury01 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 15pt;
 
-        top: 990px;
-    
-    }
+    text-transform: uppercase; 
 
-    .txt01 {
+    max-width: 90%;
 
-        top: 1195px;
-    
-    }
+    margin-left: 12%;
+    margin-right: 5%; 
 
-}
-
-@media screen and (max-width: 375px) {
-
-    .fernandonury01 {
-
-        top: 870px;
-    
-    }
-
-    .txt01 {
-
-        top: 1115px;
-    
-    }
+    position: absolute;
+    top: 1655px;
 
 }
 
-@media screen and (min-width: 414px) {
+#logo-jocum {
 
-    .fernandonury01 {
+    width: 40px;
 
-        top: 810px;
-    
-    }
+    margin-left: 56%;
 
-    .txt01 {
-
-        top: 1090px;
-    
-    }
+    position: absolute;
+    top: 1667.5px;
 
 }
