@@ -29,7 +29,7 @@ html {
 
 .tit00 {
 
-    font-size: 13pt;
+    font: 13pt Yu Gothic;
 
     text-align: justify;
 
@@ -40,9 +40,9 @@ html {
 
 }
 
-.txt {
+.txt00 {
 
-    font-size: 10pt;
+    font: 10pt Yu Gothic;
 
     text-align: justify;
 
@@ -65,5 +65,82 @@ html {
 
     position: absolute;
     top: 760px;
+
+}
+
+@media screen and (min-width: 360px) {
+
+    .fernandonury01 {
+
+        top: 913px;
+    
+    }
+
+}
+
+.txt01 {
+
+    font: 10pt Yu Gothic;
+
+    font-size: 10pt;
+
+    text-align: justify;
+
+    max-width: 90%;
+
+    margin-left: 12%;
+    margin-right: 5%;
+
+    position: absolute;
+    top: 1150px;
+
+}
+
+
+@media screen and (max-width: 320px) {
+
+    .fernandonury01 {
+
+        top: 990px;
+    
+    }
+
+    .txt01 {
+
+        top: 1200px;
+    
+    }
+
+}
+
+@media screen and (min-width: 375px) {
+
+    .fernandonury01 {
+
+        top: 870px;
+    
+    }
+
+    .txt01 {
+
+        top: 1115px;
+    
+    }
+
+}
+
+@media screen and (min-width: 414px) {
+
+    .fernandonury01 {
+
+        top: 810px;
+    
+    }
+
+    .txt01 {
+
+        top: 1080px;
+    
+    }
 
 }
