@@ -18,6 +18,8 @@ if (window.matchMedia("(max-width: 320px)").matches) {
 
 if (window.matchMedia("(min-width: 360px)").matches) {
 
+    document.getElementById('cupido').style.display = 'none'
+
     document.getElementById('fernandonury01').style.top = '900px'
 
     document.getElementById('txt01').style.top = '1130px'
