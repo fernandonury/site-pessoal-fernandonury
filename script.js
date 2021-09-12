@@ -18,6 +18,9 @@ if (window.matchMedia("(max-width: 320px)").matches) {
 
 if (window.matchMedia("(min-width: 360px)").matches) {
 
+    document.getElementById('tit00').style.marginTop = '15px'
+    document.getElementById('txt00').style.marginTop = '15px'
+
     document.getElementById('cupido').style.display = 'none'
 
     document.getElementById('fernandonury01').style.top = '900px'
