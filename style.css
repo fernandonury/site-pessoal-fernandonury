@@ -4,26 +4,66 @@ html {
 
 }
 
-.fernandonury {
+.fernandonury00 {
 
-    text-align: center;
+    width: 250px;
 
-    width: 275px;
+    margin-left: 4.2%;
+    margin-top: 4.2%;
 
-    
+}
+
+.linha {
+
+    background-color: black;
+
+    width: 1.5px;
+    height: 150px;
+
+    margin-left: 4.2%;
+
+    position: absolute;
+    top: 300px;
+
+}
+
+.tit00 {
+
+    font-size: 13pt;
+
+    text-align: justify;
+
+    max-width: 90%;
+
+    margin-left: 12%;
+    margin-right: 5%; 
 
 }
 
 .txt {
 
-    font-size: 14pt;
+    font-size: 10pt;
 
-    margin: 0 auto;
+    text-align: justify;
 
-    max-width: 600px;
+    max-width: 90%;
+
+    margin-left: 12%;
+    margin-right: 5%;
+
+}
+
+.fernandonury01 {
+
+    width: 250px;
+
+    width: 80%;
+
+    max-width: 400px;
+
+    margin-left: 11%;
 
     position: absolute;
-    left: 0;
-    right: 0;
+    top: 760px;
 
 }
