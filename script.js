@@ -35,9 +35,9 @@ if (window.matchMedia("(min-width: 375px)").matches) {
 
     document.getElementById('txt01').style.top = '1120px'
     
-    document.getElementById('tit01').style.top = '1660px'
+    document.getElementById('tit01').style.top = '1662px'
 
-    document.getElementById('logo-jocum').style.top = '1678px'
+    document.getElementById('logo-jocum').style.top = '1680px'
     document.getElementById('logo-jocum').style.marginLeft = '59%'
 
 }
