@@ -36,7 +36,7 @@ if (window.matchMedia("(min-width: 360px)").matches) {
     document.getElementById('tit02').style.marginTop = '2300px'
 
     document.getElementById('txt04').style.top = '3230px'
-    document.getElementById('txt05').style.top = '3285px'
+    document.getElementById('txt05').style.top = '3295px'
 
 }
 
