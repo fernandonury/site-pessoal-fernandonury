@@ -18,7 +18,7 @@ if (window.matchMedia("(max-width: 320px)").matches) {
 
 if (window.matchMedia("(min-width: 360px)").matches) {
 
-    document.getElementById('fernandonury01').style.top = '910px'
+    document.getElementById('fernandonury01').style.top = '907px'
 
     document.getElementById('txt01').style.top = '1130px'
     
@@ -26,6 +26,12 @@ if (window.matchMedia("(min-width: 360px)").matches) {
 
     document.getElementById('logo-jocum').style.top = '1703px'
     document.getElementById('logo-jocum').style.marginLeft = '61%'
+
+    document.getElementById('txt01').style.top = '1130px'
+
+    document.getElementById('img00').style.top = '2183px'
+    document.getElementById('img01').style.top = '2388px'
+    document.getElementById('img02').style.top = '2593px'
 
 }
 
