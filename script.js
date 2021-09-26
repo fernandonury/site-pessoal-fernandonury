@@ -35,18 +35,18 @@ if (window.matchMedia("(min-width: 375px)").matches) {
 
     document.getElementById('txt01').style.top = '1120px'
     
-    document.getElementById('tit01').style.top = '1680px'
+    document.getElementById('tit01').style.top = '1670px'
 
-    document.getElementById('logo-jocum').style.top = '1698px'
+    document.getElementById('logo-jocum').style.top = '1688px'
     document.getElementById('logo-jocum').style.marginLeft = '59%'
 
-    document.getElementById('txt02').style.top = '1700px'
+    document.getElementById('txt02').style.top = '1720px'
 
-    document.getElementById('img00').style.top = '2140px'
-    document.getElementById('img01').style.top = '2345px'
-    document.getElementById('img02').style.top = '2550px'
+    document.getElementById('img00').style.top = '2160px'
+    document.getElementById('img01').style.top = '2365px'
+    document.getElementById('img02').style.top = '2570px'
 
-    document.getElementById('txt03').style.top = '2740px'
+    document.getElementById('txt03').style.top = '2760px'
 
 }
 
