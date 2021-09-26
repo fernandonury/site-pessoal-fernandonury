@@ -3,7 +3,7 @@
 
 html {
 
-    height: 2500px;
+    height: 3370px;
 
 }
 
@@ -208,5 +208,50 @@ html {
 
     position: absolute;
     top: 2790px;
+
+}
+
+#tit02 {
+
+    color: black;
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 15pt;
+
+    text-transform: uppercase; 
+
+    max-width: 90%;
+
+    margin-left: 12%;
+    margin-right: 5%; 
+    margin-top: 2300px;
+
+}
+
+#txt04 {
+
+    font-family: 'Truculenta', sans-serif;
+
+    max-width: 90%;
+
+    margin-left: 12%;
+    margin-right: 5%;
+
+    position: absolute;
+    top: 3215px;
+
+}
+
+#txt05 {
+
+    font-family: 'Truculenta', sans-serif;
+
+    max-width: 90%;
+
+    margin-left: 12%;
+    margin-right: 5%;
+
+    position: absolute;
+    top: 3275px;
 
 }
