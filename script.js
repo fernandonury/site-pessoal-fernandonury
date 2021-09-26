@@ -33,7 +33,7 @@ if (window.matchMedia("(min-width: 360px)").matches) {
     document.getElementById('img01').style.top = '2395px'
     document.getElementById('img02').style.top = '2600px'
 
-    document.getElementById('tit02').style.marginTop = '2287px'
+    document.getElementById('tit02').style.marginTop = '2284px'
 
     document.getElementById('txt04').style.top = '3230px'
     document.getElementById('txt05').style.top = '3295px'
