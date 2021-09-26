@@ -29,9 +29,9 @@ if (window.matchMedia("(min-width: 360px)").matches) {
 
     document.getElementById('txt01').style.top = '1130px'
 
-    document.getElementById('img00').style.top = '2183px'
-    document.getElementById('img01').style.top = '2388px'
-    document.getElementById('img02').style.top = '2593px'
+    document.getElementById('img00').style.top = '2190px'
+    document.getElementById('img01').style.top = '2395px'
+    document.getElementById('img02').style.top = '2600px'
 
 }
 
