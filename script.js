@@ -33,6 +33,11 @@ if (window.matchMedia("(min-width: 360px)").matches) {
     document.getElementById('img01').style.top = '2395px'
     document.getElementById('img02').style.top = '2600px'
 
+    document.getElementById('tit02').style.marginTop = '2280px'
+
+    document.getElementById('txt04').style.top = '3210px'
+    document.getElementById('txt05').style.top = '3270px'
+
 }
 
 if (window.matchMedia("(min-width: 375px)").matches) {
@@ -54,10 +59,10 @@ if (window.matchMedia("(min-width: 375px)").matches) {
 
     document.getElementById('txt03').style.top = '2780px'
 
-    document.getElementById('tit02').style.marginTop = '2290px'
+    document.getElementById('tit02').style.marginTop = '2280px'
 
-    document.getElementById('txt04').style.top = '3200px'
-    document.getElementById('txt05').style.top = '3260px'
+    document.getElementById('txt04').style.top = '3210px'
+    document.getElementById('txt05').style.top = '3270px'
 
 }
 
