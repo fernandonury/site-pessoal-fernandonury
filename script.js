@@ -42,11 +42,11 @@ if (window.matchMedia("(min-width: 375px)").matches) {
 
     document.getElementById('txt02').style.top = '1720px'
 
-    document.getElementById('img00').style.top = '2160px'
-    document.getElementById('img01').style.top = '2365px'
-    document.getElementById('img02').style.top = '2570px'
+    document.getElementById('img00').style.top = '2180px'
+    document.getElementById('img01').style.top = '2385px'
+    document.getElementById('img02').style.top = '2590px'
 
-    document.getElementById('txt03').style.top = '2760px'
+    document.getElementById('txt03').style.top = '2780px'
 
 }
 
