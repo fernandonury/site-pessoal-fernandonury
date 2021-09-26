@@ -54,6 +54,11 @@ if (window.matchMedia("(min-width: 375px)").matches) {
 
     document.getElementById('txt03').style.top = '2780px'
 
+    document.getElementById('tit02').style.marginTop = '2290px'
+
+    document.getElementById('txt04').style.top = '3200px'
+    document.getElementById('txt05').style.top = '3260px'
+
 }
 
 if (window.matchMedia("(min-width: 414px)").matches) {
