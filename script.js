@@ -18,7 +18,7 @@ if (window.matchMedia("(max-width: 320px)").matches) {
 
 if (window.matchMedia("(min-width: 360px)").matches) {
 
-    document.getElementById('fernandonury01').style.top = '905px'
+    document.getElementById('fernandonury01').style.top = '910px'
 
     document.getElementById('txt01').style.top = '1130px'
     
