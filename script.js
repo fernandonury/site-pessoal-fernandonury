@@ -33,10 +33,10 @@ if (window.matchMedia("(min-width: 360px)").matches) {
     document.getElementById('img01').style.top = '2395px'
     document.getElementById('img02').style.top = '2600px'
 
-    document.getElementById('tit02').style.marginTop = '2275px'
+    document.getElementById('tit02').style.marginTop = '2300px'
 
-    document.getElementById('txt04').style.top = '3225px'
-    document.getElementById('txt05').style.top = '3285px'
+    document.getElementById('txt04').style.top = '3250px'
+    document.getElementById('txt05').style.top = '3305px'
 
 }
 
@@ -61,8 +61,8 @@ if (window.matchMedia("(min-width: 375px)").matches) {
 
     document.getElementById('tit02').style.marginTop = '2280px'
 
-    document.getElementById('txt04').style.top = '3205px'
-    document.getElementById('txt05').style.top = '3270px'
+    document.getElementById('txt04').style.top = '3200px'
+    document.getElementById('txt05').style.top = '3265px'
 
 }
 
